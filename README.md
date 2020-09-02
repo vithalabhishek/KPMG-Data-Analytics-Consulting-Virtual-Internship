@@ -2,7 +2,9 @@
 								
 Sprocket Central Pty Ltd Data Set								
 
-Solutions to all the modules of KPMG Virtual Internship		
+Solutions to all the modules of KPMG Virtual Internship
+
+ This repository contains the submitted patch files of the various tasks assigned by KPMG Data Analytics Virtual Internship along with the Module Answer provided by KPMG themselves.
 											
 											
   Module 1 Task	:
@@ -24,7 +26,7 @@ Solutions to all the modules of KPMG Virtual Internship
 [https://in.insidesherpa.com/virtual-internships/m7W4GMqeT3bh9Nb2c](https://www.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)										
 											
 	
-  This repository contains the submitted patch files of the various tasks assigned by KPMG Data Analytics Virtual Internship along with the Module Answer provided by KPMG themselves.
+ 
 
  ## Certificate of Completion Link:
 
