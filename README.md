@@ -20,15 +20,15 @@ Solutions to all the modules of KPMG Virtual Internship
   Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see      tools/references for assistance). 
   Specifically, your presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list. 
 				
-	## Return to the virtual internship here:										
-	 ![][https://in.insidesherpa.com/virtual-internships/m7W4GMqeT3bh9Nb2c](https://www.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)										
+## Return to the virtual internship here:										
+[https://in.insidesherpa.com/virtual-internships/m7W4GMqeT3bh9Nb2c](https://www.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)										
 											
 	
   This repository contains the submitted patch files of the various tasks assigned by KPMG Data Analytics Virtual Internship along with the Module Answer provided by KPMG themselves.
 
-  ## Certificate of Completion Link:
+ ## Certificate of Completion Link:
 
-  ![][https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_aukybM3RaxT6pR5pN_completion_certificate.pdf](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_aukybM3RaxT6pR5pN_completion_certificate.pdf)
+ [https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_aukybM3RaxT6pR5pN_completion_certificate.pdf](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_aukybM3RaxT6pR5pN_completion_certificate.pdf)
 
 
   ## For any queries/doubts:
